@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syoya_ABPro2017", "Assembly-CSharp.csproj", "{7F1C8127-5919-F59B-E613-0C9ACB344A46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syoya_ABPro2017", "Assembly-CSharp-Editor.csproj", "{39236D21-256D-EF97-1247-8D69A23E0DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1C8127-5919-F59B-E613-0C9ACB344A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1C8127-5919-F59B-E613-0C9ACB344A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1C8127-5919-F59B-E613-0C9ACB344A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1C8127-5919-F59B-E613-0C9ACB344A46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39236D21-256D-EF97-1247-8D69A23E0DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39236D21-256D-EF97-1247-8D69A23E0DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39236D21-256D-EF97-1247-8D69A23E0DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39236D21-256D-EF97-1247-8D69A23E0DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
