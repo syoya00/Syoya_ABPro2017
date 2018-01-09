@@ -1,5 +1,10 @@
 # Syoya_ABPro2017
 ABPro2017で発表した作品です
+  
+作成：Unity  
+使用したアセット：  
+SteamVR Plugin  
+VRTK - Virtual Reality Toolkit  
 
 # 概要
 射的、ボウリング、綱渡りの三種類のゲームを、ベースステーションが不安定な状態でプレイします  
